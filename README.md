@@ -8,6 +8,7 @@ essential to tailor their services and strategies accordingly.
 ● Revenue Recovery: Yulu's recent revenue decline is a pressing concern. By analyzing the
 factors affecting demand for shared electric cycles in the Indian market, they can make
 informed adjustments to regain profitability.
+
 From Learners' Perspective:
 
 ● Real-World Problem-Solving: It presents an opportunity to apply machine learning and
