@@ -1,23 +1,25 @@
 # Netflix-Data-Exploration-and-Visualisation
 ## Why this case study?
-**From Yulu's Perspective:**
+**From company’s perspective:**
+● Netflix is one of the most popular media and video streaming platforms. They
+have over 8000 movies or tv shows available on their platform, as of mid-2021,
+they have over 200M Subscribers globally.
 
-● Strategic Expansion: Yulu's decision to enter the Indian market is a strategic move to
-expand its global footprint. Understanding the demand factors in this new market is
-essential to tailor their services and strategies accordingly.
+● The particular business case focuses on the Netflix show data and provides
+insightful information on 8807 shows
 
-● Revenue Recovery: Yulu's recent revenue decline is a pressing concern. By analyzing the
-factors affecting demand for shared electric cycles in the Indian market, they can make
-informed adjustments to regain profitability.
+● Analyzing the data and generating insights helps Netflix decide which type of
+shows/movies to produce and how to grow the business.
 
-**From Learners' Perspective:**
+**From learner’s perspective:**
 
-● Real-World Problem-Solving: It presents an opportunity to apply machine learning and
-data analysis techniques to address a real-world business problem.
+● Solving this business case holds immense importance for aspiring data analysts and
+scientists.
 
-● Market Insights: Analyzing factors affecting demand in the Indian market equips
-learners with market research skills. This knowledge is transferable to various
-industries.
+● Data analysis using Python libraries is widely popular among the Data Scientists and
+Data Analysts. By working through this case study, individuals gain hands-on
+experience and practical skills while attempting this case study.
 
-● Consulting Skills: Learners can develop their ability to act as consultants, providing
-data-driven insights to organizations.
+● Additionally, it will enhance one's ability to communicate with the stakeholders
+involved in data-related projects and help the organization take better, data-driven
+decisions.
