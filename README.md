@@ -25,7 +25,7 @@ experience and practical skills while attempting this case study.
 involved in data-related projects and help the organization take better, data-driven
 decisions.
 
-##The data is available in a single csv file :
+## The data is available in a single csv file :
 
 ● Show ID : The ID of the show 
 
